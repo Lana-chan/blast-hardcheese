@@ -1,0 +1,3 @@
+Mastodon.py==1.0.8
+tracery==0.1.1
+mastodon==0.0.1
